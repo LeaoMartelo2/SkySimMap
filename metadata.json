@@ -1,0 +1,10 @@
+{
+    "name": "skysimmap",
+    "description": "merdelete",
+    "version": "trollface",
+    "author": "LeaoMartelo",
+    "entry": "index.js",
+    "requires": [
+        "Vigilance"
+    ]
+} 
