@@ -5,4 +5,8 @@ This is a simple ct module that draws the contents of a map item in the 9th hotb
 
 This reuses a lot of code from [DungeonUtilities](https://chattriggers.com/modules/v/DungeonUtilities). (A really old ct module from when dungeons first came out on hypixel)
 
+I made this to prevent players playing like rodrigo (he plays dungeons without map)
+
+![rodrigo](pq_dupou_repereons.png)
+
 
